@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: ebubekir ünlü's CV
 ---
-# Isaac Newton
+# ebubekir ünlü
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
